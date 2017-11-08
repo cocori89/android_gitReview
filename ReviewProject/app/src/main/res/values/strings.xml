@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">ReviewProject</string>
+    <string name="app_signin">로그인</string>
+    <string name="app_signup">회원가입</string>
+    <string name="app_userid">아이디를 입력하세요</string>
+    <string name="app_userpassword">암호를 입력하세요</string>
 </resources>
